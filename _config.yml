@@ -1,0 +1,8 @@
+title: Homer Resources
+description: Free Apps, Reference Guides, and Document Collections for Blind and Low Vision Users
+author: Jamal Mazrui
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: 2..3
