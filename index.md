@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homer Resources"
 subtitle: "Free Apps, Reference Guides, and Document Collections for Blind and Low Vision Users"
 author: "Jamal Mazrui"
@@ -114,7 +114,7 @@ running time, and IMDb rating.
 
 ### Blind Apps {#d-apps}
 
-90 apps and tools by 39 developers who are blind or have low vision, each
+96 apps and tools by 39 developers who are blind or have low vision, each
 with a one-sentence summary and its platform, technology, and any AI
 involved, plus statistics on the whole collection.
 [Open][d-apps].
@@ -134,7 +134,7 @@ the whole collection.
 
 ### Blind Creators {#d-creators}
 
-117 people who author books, develop apps, or make presentations, merging
+125 people who author books, develop apps, or make presentations, merging
 Blind Authors, Blind Developers, and Blind Presenters so that each person
 appears once.
 [Open][d-creators].
@@ -154,7 +154,7 @@ travelers.
 
 ### Blind Presenters {#d-presenters}
 
-37 people who lead in podcasts, talks, video, broadcast, and film, from 2010
+42 people who lead in podcasts, talks, video, broadcast, and film, from 2010
 onward.
 [Open][d-presenters].
 
