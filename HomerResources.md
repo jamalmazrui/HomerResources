@@ -5,8 +5,6 @@ author: "Jamal Mazrui"
 lang: en
 ---
 
-# Homer Resources
-
 ## Table of Contents {#table-of-contents}
 
 - [Introduction](#introduction)
