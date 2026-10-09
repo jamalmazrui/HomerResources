@@ -114,34 +114,34 @@ running time, and IMDb rating.
 
 ### Blind Apps {#d-apps}
 
-96 apps and tools by 39 developers who are blind or have low vision, each
+97 apps and tools by 40 developers who are blind or have low vision, each
 with a one-sentence summary and its platform, technology, and any AI
 involved, plus statistics on the whole collection.
 [Open][d-apps].
 
 ### Blind Authors {#d-authors}
 
-60 writers who are blind or have low vision, and 89 books they wrote on their
+61 writers who are blind or have low vision, and 90 books they wrote on their
 own, each available as electronic text or audio.
 [Open][d-authors].
 
 ### Blind Books {#d-books}
 
-105 books by 60 authors who are blind or have low vision, each with a
+106 books by 61 authors who are blind or have low vision, each with a
 one-sentence summary and its category, formats, and year, plus statistics on
 the whole collection.
 [Open][d-books].
 
 ### Blind Creators {#d-creators}
 
-125 people who author books, develop apps, or make presentations, merging
+127 people who author books, develop apps, or make presentations, merging
 Blind Authors, Blind Developers, and Blind Presenters so that each person
 appears once.
 [Open][d-creators].
 
 ### Blind Developers {#d-developers}
 
-39 software developers who are blind or have low vision, and the software
+40 software developers who are blind or have low vision, and the software
 each has built.
 [Open][d-developers].
 
