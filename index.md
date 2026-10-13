@@ -1,6 +1,6 @@
 ---
 title: "Homer Resources"
-subtitle: "Free Apps, Reference Guides, and Document Collections for Blind and Low Vision Users"
+subtitle: "A Directory of 25 Free Apps, Reference Guides, and Document Collections for Blind and Low Vision Users"
 author: "Jamal Mazrui"
 lang: en
 ---
@@ -8,6 +8,7 @@ lang: en
 ## Table of Contents {#table-of-contents}
 
 - [Introduction](#introduction)
+- [By the Numbers](#by-the-numbers)
 - [Homer Collections](#homer-collections)
     - [A11yAI](#c-a11yai)
     - [Access ICT](#c-accessict)
@@ -37,6 +38,10 @@ lang: en
     - [urlFido](#t-urlfido)
 - [Homer Development](#homer-development)
     - [HomerDev](#v-homerdev)
+
+## By the Numbers {#by-the-numbers}
+
+- 25 resources in 4 groups: collections, 5; directories, 9; tools, 10; development, 1.
 
 ## Introduction {#introduction}
 
@@ -119,13 +124,13 @@ involved, plus statistics on the whole collection.
 
 ### Blind Authors {#d-authors}
 
-61 writers who are blind or have low vision, and 90 books they wrote on their
+61 writers who are blind or have low vision, and 91 books they wrote on their
 own, each available as electronic text or audio.
 [Open][d-authors].
 
 ### Blind Books {#d-books}
 
-106 books by 61 authors who are blind or have low vision, each with a
+107 books by 61 authors who are blind or have low vision, each with a
 one-sentence summary and its category, formats, and year, plus statistics on
 the whole collection.
 [Open][d-books].
