@@ -1,6 +1,6 @@
 ---
 title: "Homer Resources"
-subtitle: "A Directory of 25 Free Apps, Reference Guides, and Document Collections for Blind and Low Vision Users"
+subtitle: "A Directory of 27 Free Apps, Reference Guides, and Document Collections for Blind and Low Vision Users"
 author: "Jamal Mazrui"
 lang: en
 ---
@@ -16,6 +16,7 @@ lang: en
     - [DevDocs](#c-devdocs)
     - [Podcast Directories](#c-podcastdirectories)
 - [Homer Directories](#homer-directories)
+    - [Accessibility Skills for AI Agents](#d-a11yskills)
     - [AudioVault](#d-audiovault)
     - [Blind Apps](#d-apps)
     - [Blind Authors](#d-authors)
@@ -24,6 +25,7 @@ lang: en
     - [Blind Developers](#d-developers)
     - [Blind Movers](#d-movers)
     - [Blind Presenters](#d-presenters)
+    - [Blind Vibe Coding](#d-vibecoding)
     - [Tech Training](#d-techtraining)
 - [Homer Tools](#homer-tools)
     - [2htm](#t-2htm)
@@ -41,7 +43,7 @@ lang: en
 
 ## By the Numbers {#by-the-numbers}
 
-- 25 resources in 4 groups: collections, 5; directories, 9; tools, 10; development, 1.
+- 27 resources in 4 groups: collections, 5; directories, 11; tools, 10; development, 1.
 
 ## Introduction {#introduction}
 
@@ -108,9 +110,16 @@ second way.
 
 The web page for all of them is [Homer Directories][p-directories].
 
+### Accessibility Skills for AI Agents {#d-a11yskills}
+
+175 accessibility skills from 8 public GitHub repositories, written for AI
+coding agents to read and follow, each with its full text, its license, and a
+link to its source.
+[Open][d-a11yskills].
+
 ### AudioVault {#d-audiovault}
 
-1444 movies and 1471 television seasons and specials that have audio
+1,444 movies and 1,471 television seasons and specials that have audio
 description, each title linking to its audio download, with year, genres,
 running time, and IMDb rating.
 [Open][d-audiovault].
@@ -150,7 +159,7 @@ each has built.
 
 ### Blind Movers {#d-movers}
 
-More than 130 resources for travel, recreation, and tourism while blind or
+More than 140 resources for travel, recreation, and tourism while blind or
 low vision: the apps, organizations, tours, and services that plan for blind
 travelers.
 [Open][d-movers].
@@ -161,9 +170,16 @@ travelers.
 onward.
 [Open][d-presenters].
 
+### Blind Vibe Coding {#d-vibecoding}
+
+54 resources for building apps nonvisually with AI, from tools and guides to
+podcasts, videos, and research, each with its cost, platforms, and the evidence
+behind it.
+[Open][d-vibecoding].
+
 ### Tech Training {#d-techtraining}
 
-1304 free video and audio presentations on technology and accessibility, from
+1,167 free video and audio presentations on technology and accessibility, from
 25 sources in 20 topic categories, each linking straight to the presentation.
 [Open][d-techtraining].
 
@@ -286,6 +302,7 @@ source code, kept in one folder and compiled into each app at build time.
 [c-apphelpguides-zip]: https://github.com/JamalMazrui/AppHelpGuides/archive/HEAD.zip
 [c-devdocs-zip]: https://github.com/JamalMazrui/DevDocs/archive/HEAD.zip
 [c-podcasts-zip]: https://github.com/JamalMazrui/PodcastDirectories/archive/main.zip
+[d-a11yskills]: https://JamalMazrui.github.io/A11ySkills/
 [d-audiovault]: https://JamalMazrui.github.io/AudioVault/
 [d-apps]: https://JamalMazrui.github.io/BlindApps/
 [d-authors]: https://JamalMazrui.github.io/BlindAuthors/
@@ -294,6 +311,7 @@ source code, kept in one folder and compiled into each app at build time.
 [d-developers]: https://JamalMazrui.github.io/BlindDevelopers/
 [d-movers]: https://JamalMazrui.github.io/BlindMovers/
 [d-presenters]: https://JamalMazrui.github.io/BlindPresenters/
+[d-vibecoding]: https://JamalMazrui.github.io/BlindVibeCoding/
 [d-techtraining]: https://JamalMazrui.github.io/TechTraining/
 [t-2htm]: https://github.com/JamalMazrui/2htm
 [t-2htm-setup]: https://github.com/JamalMazrui/2htm/releases/latest/download/2htm_setup.exe
