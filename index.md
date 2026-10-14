@@ -56,6 +56,10 @@ read on the web, tools you install, and the development kit the tools are
 built on. Each kind has its own section below, and each section names the web
 page that holds the whole set.
 
+Everything here is free and open. The author also writes books, which are
+sold rather than given away, so they are not listed here. If you would like
+to learn about them, they are described in [My Books][p-mybooks].
+
 ## Homer Collections {#homer-collections}
 
 Each collection puts public material that is hard to read with a screen
@@ -295,6 +299,7 @@ source code, kept in one folder and compiled into each app at build time.
 [v-homerdev]: https://github.com/JamalMazrui/HomerDev
 [v-homerdev-zip]: https://github.com/JamalMazrui/HomerDev/archive/main.zip
 [p-collections]: https://JamalMazrui.github.io/HomerCollections/
+[p-mybooks]: https://JamalMazrui.github.io/MyBooks/
 [p-directories]: https://JamalMazrui.github.io/HomerDirectories/
 [p-tools]: https://JamalMazrui.github.io/HomerTools/
 [c-a11yai-zip]: https://github.com/JamalMazrui/A11yAI/archive/HEAD.zip
