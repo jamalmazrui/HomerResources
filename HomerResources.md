@@ -1,6 +1,6 @@
 ---
 title: "Homer Resources"
-subtitle: "A Directory of 27 Free Apps, Reference Guides, and Document Collections for Blind and Low Vision Users"
+subtitle: "A Directory of 28 Free Apps, Reference Guides, and Document Collections for Blind and Low Vision Users"
 author: "Jamal Mazrui"
 lang: en
 ---
@@ -25,6 +25,7 @@ lang: en
     - [Blind Developers](#d-developers)
     - [Blind Movers](#d-movers)
     - [Blind Presenters](#d-presenters)
+    - [Blind Skills](#d-skills)
     - [Blind Vibe Coding](#d-vibecoding)
     - [Tech Training](#d-techtraining)
 - [Homer Tools](#homer-tools)
@@ -43,7 +44,7 @@ lang: en
 
 ## By the Numbers {#by-the-numbers}
 
-- 27 resources in 4 groups: collections, 5; directories, 11; tools, 10; development, 1.
+- 28 resources in 4 groups: collections, 5; directories, 12; tools, 10; development, 1.
 
 ## Introduction {#introduction}
 
@@ -173,6 +174,13 @@ travelers.
 42 people who lead in podcasts, talks, video, broadcast, and film, from 2010
 onward.
 [Open][d-presenters].
+
+### Blind Skills {#d-skills}
+
+84 free videos and podcasts that teach blindness skills, in 12 skill groups
+such as cane travel, braille, cooking, and crafts, each heading linking
+straight to the audio or video.
+[Open][d-skills].
 
 ### Blind Vibe Coding {#d-vibecoding}
 
@@ -316,6 +324,7 @@ source code, kept in one folder and compiled into each app at build time.
 [d-developers]: https://JamalMazrui.github.io/BlindDevelopers/
 [d-movers]: https://JamalMazrui.github.io/BlindMovers/
 [d-presenters]: https://JamalMazrui.github.io/BlindPresenters/
+[d-skills]: https://JamalMazrui.github.io/BlindSkills/
 [d-vibecoding]: https://JamalMazrui.github.io/BlindVibeCoding/
 [d-techtraining]: https://JamalMazrui.github.io/TechTraining/
 [t-2htm]: https://github.com/JamalMazrui/2htm
