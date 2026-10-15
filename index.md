@@ -151,7 +151,7 @@ the whole collection.
 
 ### Blind Creators {#d-creators}
 
-127 people who author books, develop apps, or make presentations, merging
+129 people who author books, develop apps, or make presentations, merging
 Blind Authors, Blind Developers, and Blind Presenters so that each person
 appears once.
 [Open][d-creators].
@@ -171,15 +171,15 @@ travelers.
 
 ### Blind Presenters {#d-presenters}
 
-42 people who lead in podcasts, talks, video, broadcast, and film, from 2010
+44 people who lead in podcasts, talks, video, broadcast, and film, from 2010
 onward.
 [Open][d-presenters].
 
 ### Blind Skills {#d-skills}
 
-84 free videos and podcasts that teach blindness skills, in 12 skill groups
-such as cane travel, braille, cooking, and crafts, each heading linking
-straight to the audio or video.
+83 free videos and podcasts that teach blindness skills, in 12 skill groups
+such as cane travel, braille, cooking, and crafts, each with its length and
+year, and each heading linking straight to the audio or video.
 [Open][d-skills].
 
 ### Blind Vibe Coding {#d-vibecoding}
@@ -236,7 +236,8 @@ your accounts leaving the computer.
 Manages SQLite, Access, Excel, and other databases from the keyboard, as
 Windows lists you move through cell by cell or a dot prompt for commands and
 SQL. Template databases start you off -- a job search, a book list, a
-collection, a contact list -- and spoken walkthroughs teach the keys.
+collection, a contact list, the Blind Skills lessons, and the people and works
+of the Blind directories -- and spoken walkthroughs teach the keys.
 [Project page][t-dbdo]. [Installer][t-dbdo-setup].
 
 ### EdSharp {#t-edsharp}
