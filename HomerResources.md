@@ -1,6 +1,9 @@
 ---
 title: "Homer Resources"
 subtitle: "A Directory of 28 Free Apps, Reference Guides, and Document Collections for Blind and Low Vision Users"
+description: "A directory of Jamal Mazrui's free apps, reference guides, and document collections for blind and low-vision users."
+license: "CC BY-SA 4.0"
+license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
 author: "Jamal Mazrui"
 lang: en
 ---
@@ -60,6 +63,8 @@ page that holds the whole set.
 Everything here is free and open. The author also writes books, which are
 sold rather than given away, so they are not listed here. If you would like
 to learn about them, they are described in [My Books][p-mybooks].
+
+Each app keeps its own license. This directory's own text and arrangement are available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Homer Collections {#homer-collections}
 
