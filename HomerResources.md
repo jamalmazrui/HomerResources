@@ -136,7 +136,7 @@ running time, and IMDb rating.
 
 ### Blind Apps {#d-apps}
 
-99 apps and tools by 42 developers who are blind or have low vision, each
+101 apps and tools by 43 developers who are blind or have low vision, each
 with a one-sentence summary and its platform, technology, and any AI
 involved, plus statistics on the whole collection.
 [Open][d-apps].
@@ -156,14 +156,14 @@ the whole collection.
 
 ### Blind Creators {#d-creators}
 
-132 people who author books, develop apps, or make presentations, merging
+134 people who author books, develop apps, or make presentations, merging
 Blind Authors, Blind Developers, and Blind Presenters so that each person
 appears once.
 [Open][d-creators].
 
 ### Blind Developers {#d-developers}
 
-42 software developers who are blind or have low vision, and the software
+43 software developers who are blind or have low vision, and the software
 each has built.
 [Open][d-developers].
 
@@ -176,7 +176,7 @@ travelers.
 
 ### Blind Presenters {#d-presenters}
 
-46 people who lead in podcasts, talks, video, broadcast, and film, from 2010
+47 people who lead in podcasts, talks, video, broadcast, and film, from 2010
 onward.
 [Open][d-presenters].
 
