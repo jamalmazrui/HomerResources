@@ -136,7 +136,7 @@ running time, and IMDb rating.
 
 ### Blind Apps {#d-apps}
 
-133 apps and tools by 45 developers who are blind or have low vision, each
+175 apps and tools by 45 developers who are blind or have low vision, each
 with a one-sentence summary and its platform, technology, and any AI
 involved, plus statistics on the whole collection.
 [Open][d-apps].
