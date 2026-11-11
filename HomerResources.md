@@ -189,7 +189,7 @@ year, and each heading linking straight to the audio or video.
 
 ### Blind Vibe Coding {#d-vibecoding}
 
-56 resources for building apps nonvisually with AI, from tools and guides to
+58 resources for building apps nonvisually with AI, from tools and guides to
 podcasts, videos, and research, each with its cost, platforms, and the evidence
 behind it.
 [Open][d-vibecoding].
