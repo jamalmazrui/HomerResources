@@ -136,7 +136,7 @@ running time, and IMDb rating.
 
 ### Blind Apps {#d-apps}
 
-183 apps and tools by 46 developers who are blind or have low vision, each
+192 apps and tools by 47 developers who are blind or have low vision, each
 with a one-sentence summary and its platform, technology, and any AI
 involved, plus statistics on the whole collection.
 [Open][d-apps].
@@ -156,14 +156,14 @@ the whole collection.
 
 ### Blind Creators {#d-creators}
 
-137 people who author books, develop apps, or make presentations, merging
+138 people who author books, develop apps, or make presentations, merging
 Blind Authors, Blind Developers, and Blind Presenters so that each person
 appears once.
 [Open][d-creators].
 
 ### Blind Developers {#d-developers}
 
-46 software developers who are blind or have low vision, and the software
+47 software developers who are blind or have low vision, and the software
 each has built.
 [Open][d-developers].
 
@@ -189,7 +189,7 @@ year, and each heading linking straight to the audio or video.
 
 ### Blind Vibe Coding {#d-vibecoding}
 
-58 resources for building apps nonvisually with AI, from tools and guides to
+61 resources for building apps nonvisually with AI, from tools and guides to
 podcasts, videos, and research, each with its cost, platforms, and the evidence
 behind it.
 [Open][d-vibecoding].
