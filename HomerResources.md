@@ -143,20 +143,20 @@ involved, plus statistics on the whole collection.
 
 ### Blind Authors {#d-authors}
 
-61 writers who are blind or have low vision, and 91 books they wrote on their
+63 writers who are blind or have low vision, and 94 books they wrote on their
 own, each available as electronic text or audio.
 [Open][d-authors].
 
 ### Blind Books {#d-books}
 
-107 books by 61 authors who are blind or have low vision, each with a
+110 books by 63 authors who are blind or have low vision, each with a
 one-sentence summary and its category, formats, and year, plus statistics on
 the whole collection.
 [Open][d-books].
 
 ### Blind Creators {#d-creators}
 
-139 people who author books, develop apps, or make presentations, merging
+148 people who author books, develop apps, or make presentations, merging
 Blind Authors, Blind Developers, and Blind Presenters so that each person
 appears once.
 [Open][d-creators].
@@ -176,7 +176,7 @@ travelers.
 
 ### Blind Presenters {#d-presenters}
 
-47 people who lead in podcasts, talks, video, broadcast, and film, from 2010
+56 people who lead in podcasts, talks, video, broadcast, and film, from 2010
 onward.
 [Open][d-presenters].
 
