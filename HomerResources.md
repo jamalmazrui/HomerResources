@@ -197,7 +197,7 @@ behind it.
 
 ### Described Tours {#d-describedtours}
 
-50 free audio-described tours of museums, parks, and landmarks, each heading
+51 free audio-described tours of notable places, objects, and images, each heading
 linking straight to the recording, with separate tracks for longer tours, and
 the whole set playable as one list.
 [Open][d-describedtours].
