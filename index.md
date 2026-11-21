@@ -1,6 +1,6 @@
 ---
 title: "Homer Resources"
-subtitle: "A Directory of 28 Free Apps, Reference Guides, and Document Collections for Blind and Low Vision Users"
+subtitle: "A Directory of 29 Free Apps, Reference Guides, and Document Collections for Blind and Low Vision Users"
 description: "A directory of Jamal Mazrui's free apps, reference guides, and document collections for blind and low-vision users."
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -30,6 +30,7 @@ lang: en
     - [Blind Presenters](#d-presenters)
     - [Blind Skills](#d-skills)
     - [Blind Vibe Coding](#d-vibecoding)
+    - [Described Tours](#d-describedtours)
     - [Tech Training](#d-techtraining)
 - [Homer Tools](#homer-tools)
     - [2htm](#t-2htm)
@@ -47,7 +48,7 @@ lang: en
 
 ## By the Numbers {#by-the-numbers}
 
-- 28 resources in 4 groups: collections, 5; directories, 12; tools, 10; development, 1.
+- 29 resources in 4 groups: collections, 5; directories, 13; tools, 10; development, 1.
 
 ## Introduction {#introduction}
 
@@ -194,6 +195,13 @@ podcasts, videos, and research, each with its cost, platforms, and the evidence
 behind it.
 [Open][d-vibecoding].
 
+### Described Tours {#d-describedtours}
+
+50 free audio-described tours of museums, parks, and landmarks, each heading
+linking straight to the recording, with separate tracks for longer tours, and
+the whole set playable as one list.
+[Open][d-describedtours].
+
 ### Tech Training {#d-techtraining}
 
 1,167 free video and audio presentations on technology and accessibility, from
@@ -332,6 +340,7 @@ source code, kept in one folder and compiled into each app at build time.
 [d-presenters]: https://JamalMazrui.github.io/BlindPresenters/
 [d-skills]: https://JamalMazrui.github.io/BlindSkills/
 [d-vibecoding]: https://JamalMazrui.github.io/BlindVibeCoding/
+[d-describedtours]: https://JamalMazrui.github.io/DescribedTours/
 [d-techtraining]: https://JamalMazrui.github.io/TechTraining/
 [t-2htm]: https://github.com/JamalMazrui/2htm
 [t-2htm-setup]: https://github.com/JamalMazrui/2htm/releases/latest/download/2htm_setup.exe
