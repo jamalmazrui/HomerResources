@@ -92,8 +92,8 @@ regulations, testing, and many other topics.
 
 ### App Help Guides {#c-apphelpguides}
 
-Publishers' own help documentation for 63 products in 12 categories,
-gathered into one document each. A help site buries a short answer under
+Publishers' own help documentation for 321 products, gathered into one
+document each. A help site buries a short answer under
 banners and widgets, while one document has a single heading structure, a
 single search, and works offline.
 [Download][c-apphelpguides-zip].
@@ -106,7 +106,7 @@ JavaScript, C#, Git, SQL, and many other languages and tools.
 
 ### Podcast Directories {#c-podcastdirectories}
 
-Every public episode of 89 podcasts, more than 30,800 in all, as one web page
+Every public episode of 180 podcasts, more than 30,800 in all, as one web page
 per show. Episodes are grouped by season or year under headings, each title
 linking straight to the audio, with date, duration, guests, and a summary
 where the show gives one. Appendixes list every episode again by date, by
@@ -191,7 +191,7 @@ year, and each heading linking straight to the audio or video.
 
 ### Blind Vibe Coding {#d-vibecoding}
 
-61 resources for building apps nonvisually with AI, from tools and guides to
+63 resources for building apps nonvisually with AI, from tools and guides to
 podcasts, videos, and research, each with its cost, platforms, and the evidence
 behind it.
 [Open][d-vibecoding].
